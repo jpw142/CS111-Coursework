@@ -1,1 +1,1 @@
-A rudimentary markov chain implementation and a data class implementation
+This is all my coursework for CS111. For all of these I was given implementation details and then wrote code to that specification.
